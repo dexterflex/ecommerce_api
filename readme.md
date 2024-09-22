@@ -46,4 +46,8 @@ Create a `.env` file in the root directory of your project and add the following
 ```plaintext
 PORT=5000
 DB_URL=mongodb://localhost:27017/ecommerce
+<<<<<<< HEAD
 JWT_SECRET=your_jwt_secret
+=======
+JWT_SECRET=your_jwt_secret
+>>>>>>> 7d7c351842863bbfdb07c7355a221f72e5d9ce5d
