@@ -1,0 +1,4 @@
+environment variables
+PORT
+DB_URL
+JWT_SECRET
